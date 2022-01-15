@@ -30,6 +30,11 @@ const listed = [
     name: "Shivam Singh",
     phoneNumber: 9877899876,
   },
+  {
+    id: 7,
+    name: "Rekha",
+    phoneNumber: 7687657453,
+  },
 ];
 export default listed;
 export interface listed {
